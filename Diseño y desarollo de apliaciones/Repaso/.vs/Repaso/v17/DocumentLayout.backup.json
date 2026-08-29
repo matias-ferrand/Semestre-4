@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\ejornalero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\ejornalero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicosemisenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicosenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\repaso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,63 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1102,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ETecnico.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnico.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnico.cs",
               "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnico.cs",
               "RelativeToolTip": "Repaso\\Entities\\ETecnico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:18:54.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Empleado.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\Empleado.cs",
               "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Empleado.cs",
               "RelativeToolTip": "Repaso\\Entities\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:16:01.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ETecnicoSenior.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
-              "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnicoSenior.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
-              "RelativeToolTip": "Repaso\\Entities\\ETecnicoSenior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:35:11.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Grado.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
-              "RelativeDocumentMoniker": "Repaso\\Entities\\Grado.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
-              "RelativeToolTip": "Repaso\\Entities\\Grado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:37:40.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ETecnicoSemiSenior.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSemiSenior.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnicoSemiSenior.cs",
@@ -132,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EJornalero.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EJornalero.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\EJornalero.cs",
@@ -145,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "EAdministrador.cs",
               "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EAdministrador.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\EAdministrador.cs",
@@ -154,6 +128,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:18:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ETecnicoSenior.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
+              "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnicoSenior.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
+              "RelativeToolTip": "Repaso\\Entities\\ETecnicoSenior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T00:35:11.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grado.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
+              "RelativeDocumentMoniker": "Repaso\\Entities\\Grado.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
+              "RelativeToolTip": "Repaso\\Entities\\Grado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T00:37:40.291Z",
               "EditorCaption": ""
             },
             {

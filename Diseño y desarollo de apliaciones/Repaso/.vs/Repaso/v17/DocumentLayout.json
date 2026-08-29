@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\",
+  "WorkspaceRootPath": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\ejornalero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\ejornalero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicosemisenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicosemisenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicosenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicosenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\repaso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicosenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicosenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicosemisenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicosemisenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\etecnicojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\ejornalero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\ejornalero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\eadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\repaso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\repaso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre 4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso\\repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06388BC9-21C9-4317-94BC-DB957F6B3F8A}|Repaso\\Repaso.csproj|solutionrelative:repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,41 +50,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1102,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ETecnico.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnico.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnico.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnico.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnico.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnico.cs",
               "RelativeToolTip": "Repaso\\Entities\\ETecnico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:18:54.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Empleado.cs",
-              "RelativeDocumentMoniker": "Repaso\\Entities\\Empleado.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Empleado.cs",
-              "RelativeToolTip": "Repaso\\Entities\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:16:01.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ETecnicoSemiSenior.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSemiSenior.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSemiSenior.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnicoSemiSenior.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSemiSenior.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSemiSenior.cs",
               "RelativeToolTip": "Repaso\\Entities\\ETecnicoSemiSenior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ETecnicoJunior.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoJunior.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoJunior.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnicoJunior.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoJunior.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoJunior.cs",
               "RelativeToolTip": "Repaso\\Entities\\ETecnicoJunior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,37 +93,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EJornalero.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EJornalero.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EJornalero.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\EJornalero.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EJornalero.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EJornalero.cs",
               "RelativeToolTip": "Repaso\\Entities\\EJornalero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:18:38.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EAdministrador.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EAdministrador.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\EAdministrador.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EAdministrador.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\EAdministrador.cs",
               "RelativeToolTip": "Repaso\\Entities\\EAdministrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T00:18:20.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ETecnicoSenior.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\ETecnicoSenior.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\ETecnicoSenior.cs",
               "RelativeToolTip": "Repaso\\Entities\\ETecnicoSenior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Grado.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
               "RelativeDocumentMoniker": "Repaso\\Entities\\Grado.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Grado.cs",
               "RelativeToolTip": "Repaso\\Entities\\Grado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,29 +145,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "Repaso\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Entities\\Empleado.cs",
+              "RelativeToolTip": "Repaso\\Entities\\Empleado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T00:16:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Repaso",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Repaso.csproj",
+              "Title": "Repaso.csproj",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Repaso.csproj",
               "RelativeDocumentMoniker": "Repaso\\Repaso.csproj",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Repaso.csproj",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Repaso.csproj",
               "RelativeToolTip": "Repaso\\Repaso.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-28T00:17:43.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T00:17:43.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Program.cs",
               "RelativeDocumentMoniker": "Repaso\\Program.cs",
-              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre 4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Program.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso\\Repaso\\Program.cs",
               "RelativeToolTip": "Repaso\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:14:26.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T00:14:26.496Z"
             }
           ]
         }
