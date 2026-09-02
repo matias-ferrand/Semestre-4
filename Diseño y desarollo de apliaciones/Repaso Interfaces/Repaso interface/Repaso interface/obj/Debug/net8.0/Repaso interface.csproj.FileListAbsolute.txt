@@ -1,0 +1,15 @@
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\bin\Debug\net8.0\Repaso interface.exe
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\bin\Debug\net8.0\Repaso interface.deps.json
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\bin\Debug\net8.0\Repaso interface.runtimeconfig.json
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\bin\Debug\net8.0\Repaso interface.dll
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\bin\Debug\net8.0\Repaso interface.pdb
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.sourcelink.json
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.dll
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\refint\Repaso interface.dll
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.pdb
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\Repaso interface.genruntimeconfig.cache
+C:\Users\Equipo\Desktop\Semestre-4\Diseño y desarollo de apliaciones\Repaso Interfaces\Repaso interface\Repaso interface\obj\Debug\net8.0\ref\Repaso interface.dll

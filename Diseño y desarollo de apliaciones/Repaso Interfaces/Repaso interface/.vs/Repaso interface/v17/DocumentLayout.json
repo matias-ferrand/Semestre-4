@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso interfaces\\repaso interface\\repaso interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|solutionrelative:repaso interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso interfaces\\repaso interface\\repaso interface\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|solutionrelative:repaso interface\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso interfaces\\repaso interface\\repaso interface\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|solutionrelative:repaso interface\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|c:\\users\\equipo\\desktop\\semestre-4\\dise\u00F1o y desarollo de apliaciones\\repaso interfaces\\repaso interface\\repaso interface\\ifigurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19EB3C-CB8F-403A-A005-C88E3CBC9637}|Repaso interface\\Repaso interface.csproj|solutionrelative:repaso interface\\ifigurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1102,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Repaso interface\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\Rectangulo.cs",
+              "RelativeToolTip": "Repaso interface\\Rectangulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:11:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Repaso interface\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\Triangulo.cs",
+              "RelativeToolTip": "Repaso interface\\Triangulo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:10:43.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\IFiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "Repaso interface\\IFiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\IFiguraGeometrica.cs",
+              "RelativeToolTip": "Repaso interface\\IFiguraGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:09:31.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\Program.cs",
+              "RelativeDocumentMoniker": "Repaso interface\\Program.cs",
+              "ToolTip": "C:\\Users\\Equipo\\Desktop\\Semestre-4\\Dise\u00F1o y desarollo de apliaciones\\Repaso Interfaces\\Repaso interface\\Repaso interface\\Program.cs",
+              "RelativeToolTip": "Repaso interface\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:06:03.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
