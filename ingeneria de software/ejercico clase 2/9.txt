@@ -1,0 +1,36 @@
+Una biblioteca desea desarrollar un sistema web para gestionar el préstamo de
+libros.
+Los usuarios podrán consultar los libros disponibles, buscar libros por título o
+autor y realizar reservas. Cuando un libro sea reservado, el sistema deberá
+registrar la reserva y enviar una notificación al usuario.
+Los bibliotecarios podrán registrar nuevos libros, modificar la información de los
+libros existentes y consultar qué libros se encuentran prestados o reservados.
+El sistema será utilizado por estudiantes y bibliotecarios. Debe ser sencillo de
+utilizar y permitir que las consultas se realicen rápidamente, incluso cuando haya
+muchos usuarios utilizando el sistema al mismo tiempo.
+
+Consigna
+A partir de la situación planteada:
+1. Escribí 3 requerimientos funcionales.
+2. Escribí 3 requerimientos no funcionales y a que tipo pertenecen.
+
+Recordá:
+● Los requerimientos funcionales describen qué debe hacer el sistema.
+● Los requerimientos no funcionales describen cómo debe funcionar el sistema o qué
+características/restricciones debe cumplir.
+Intentá redactarlos utilizando la estructura:
+
+1. Requerimientos funcionales
+El sistema debe permitir a los usuarios buscar libros por título o autor.
+El sistema debe permitir a los usuarios realizar reservas de libros disponibles.
+El sistema debe permitir a los bibliotecarios registrar nuevos libros y modificar la información de los libros existentes.
+
+2. Requerimientos no funcionales
+El sistema debe permitir realizar las consultas de libros rápidamente, incluso cuando haya muchos usuarios conectados.
+Tipo: Rendimiento.
+
+El sistema debe ser sencillo y fácil de utilizar para estudiantes y bibliotecarios.
+Tipo: Usabilidad.
+
+El sistema debe estar disponible para que los usuarios puedan acceder a través de un navegador web.
+Tipo: Disponibilidad

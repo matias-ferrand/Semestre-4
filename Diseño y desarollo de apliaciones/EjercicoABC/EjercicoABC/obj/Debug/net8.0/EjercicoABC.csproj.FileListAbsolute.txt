@@ -1,0 +1,14 @@
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\bin\Debug\net8.0\EjercicoABC.exe
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\bin\Debug\net8.0\EjercicoABC.deps.json
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\bin\Debug\net8.0\EjercicoABC.runtimeconfig.json
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\bin\Debug\net8.0\EjercicoABC.dll
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\bin\Debug\net8.0\EjercicoABC.pdb
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\EjercicoABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\EjercicoABC.AssemblyInfoInputs.cache
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\EjercicoABC.AssemblyInfo.cs
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\EjercicoABC.csproj.CoreCompileInputs.cache
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\EjercicoABC.dll
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\refint\EjercicoABC.dll
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\EjercicoABC.pdb
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\EjercicoABC.genruntimeconfig.cache
+C:\Users\Ninja\source\repos\EjercicoABC\EjercicoABC\obj\Debug\net8.0\ref\EjercicoABC.dll

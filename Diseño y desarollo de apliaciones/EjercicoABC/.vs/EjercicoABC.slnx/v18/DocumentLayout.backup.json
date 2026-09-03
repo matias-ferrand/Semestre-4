@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|c:\\users\\ninja\\source\\repos\\ejercicoabc\\ejercicoabc\\testingdec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|solutionrelative:ejercicoabc\\testingdec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|c:\\users\\ninja\\source\\repos\\ejercicoabc\\ejercicoabc\\clasec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|solutionrelative:ejercicoabc\\clasec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|c:\\users\\ninja\\source\\repos\\ejercicoabc\\ejercicoabc\\claseb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|solutionrelative:ejercicoabc\\claseb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|c:\\users\\ninja\\source\\repos\\ejercicoabc\\ejercicoabc\\clasea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6FE5C-AA35-6AC9-175E-0D9C854B5416}|EjercicoABC\\EjercicoABC.csproj|solutionrelative:ejercicoabc\\clasea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1102,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestingDeC.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\TestingDeC.cs",
+              "RelativeDocumentMoniker": "EjercicoABC\\TestingDeC.cs",
+              "ToolTip": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\TestingDeC.cs",
+              "RelativeToolTip": "EjercicoABC\\TestingDeC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T22:39:01.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaseC.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\ClaseC.cs",
+              "RelativeDocumentMoniker": "EjercicoABC\\ClaseC.cs",
+              "ToolTip": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\ClaseC.cs",
+              "RelativeToolTip": "EjercicoABC\\ClaseC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T22:16:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaseB.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\ClaseB.cs",
+              "RelativeDocumentMoniker": "EjercicoABC\\ClaseB.cs",
+              "ToolTip": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\ClaseB.cs",
+              "RelativeToolTip": "EjercicoABC\\ClaseB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T22:15:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaseA.cs",
+              "DocumentMoniker": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\ClaseA.cs",
+              "RelativeDocumentMoniker": "EjercicoABC\\ClaseA.cs",
+              "ToolTip": "C:\\Users\\Ninja\\source\\repos\\EjercicoABC\\EjercicoABC\\ClaseA.cs",
+              "RelativeToolTip": "EjercicoABC\\ClaseA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T22:15:44.065Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
