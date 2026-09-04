@@ -1,0 +1,17 @@
+Responsabilidad unica
+cuando hay muchas razones distintas tiene muchas responsabilidades distintas
+cuando una clase hace demaciadas cosas que no estan relazacionadas
+es muy comun que se vea afectada por los cambios.
+Esto se ve en capas, como el dbcontext, clase servicio el mismo control hacer todo el servicio ademas de comunicarse con el db context
+miro el controlorador tiene todos los metodos, desde esa persepectetica tiene todos los metodos q van con una entidad.
+los distintos niveles de capas, como la presentaicon que lelga la informacion
+cuestiones como la logistica de negocio
+esa clase esta muchas cosas disitntas, un metodo que hace la tarea esa y todos estan relacionados de todas las capas
+tiene responsabilidades de presentacion, ahce la logica de negocio, trabaja con la capa de datos.
+
+Abierto/Cerrado
+es un conjunto abierto a la extension y cerrados a la modificaciones
+aviertos se debe poder cambiar el compartamiento de la clase antes cambios en la apliaciono sasitafcer requermientos
+cerrado:, el dogio de la clase no se puede cambiar
+
+Princioi de Liskov
