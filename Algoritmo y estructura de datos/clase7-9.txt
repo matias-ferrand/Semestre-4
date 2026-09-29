@@ -1,0 +1,15 @@
+Set para evitar duplicado dentro de una lista
+arreglo busqueda rapida
+la lista gana en modificar y eliminacion
+
+Nodo cabeza, nodo inicial lista
+
+LIFO, primero en entrar ultimo en salir
+pusho y el pop
+
+FIFO, primero en entrar primero en irse
+ 
+hash table  
+siempre tiene q tener el mismo valor con la misma entrada
+
+algoritmo de organiacion, tipo de busqueda ( parcial )

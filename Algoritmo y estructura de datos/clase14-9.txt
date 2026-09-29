@@ -1,0 +1,3 @@
+Que es el big O
+y no se que de algoritmo de un ejemplo
+

@@ -1,0 +1,33 @@
+temas
+metodos de organizacion 
+> uno recursico big 0 o cuadriatico
+
+Ejemplos de Big 0
+> y decir cual es
+y ejercios de big 0
+
+Multiple opcion
+
+En diferente sistema que estructura de datos usuaria
+
+Ejercios de ordenacion
+incesit gooble
+
+hash tipo de dato/ tabla hash/ estructura de datos
+
+ejercio de recursividad
+
+teorica multipleopion/ verdadero o falso
+
+busqueda binaria: la lista sea ordenada
+recursividad ejercios
+busqueda binaria, big 0 va teorico
+
+
+------------------------------------------------
+
+Caso base de ajedrez 64
+empecas a 1 
+
+
+
